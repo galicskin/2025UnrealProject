@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "b3Project",
+			"Path": "..\\Source\\b3Project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "b3ProjectEditor",
+			"Path": "..\\Source\\b3ProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\2025unreal\\2025unrealproject\\b3project\\source\\b3project\\b3project.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\2025unreal\\2025unrealproject\\b3project\\intermediate\\build\\win64\\x64\\b3projecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\2025unreal\\2025unrealproject\\b3project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\b3project\\definitions.b3project.h",
+            "d:\\2025unreal\\2025unrealproject\\b3project\\source\\b3project\\b3project.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

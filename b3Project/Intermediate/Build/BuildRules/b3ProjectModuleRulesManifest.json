@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\2025Unreal\\2025UnrealProject\\b3Project\\Source\\b3Project\\b3Project.Build.cs",
+		"D:\\2025Unreal\\2025UnrealProject\\b3Project\\Source\\b3Project.Target.cs",
+		"D:\\2025Unreal\\2025UnrealProject\\b3Project\\Source\\b3ProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}

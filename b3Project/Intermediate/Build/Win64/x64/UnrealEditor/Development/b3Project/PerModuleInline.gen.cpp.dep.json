@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\2025unreal\\2025unrealproject\\b3project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\b3project\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\2025unreal\\2025unrealproject\\b3project\\intermediate\\build\\win64\\x64\\b3projecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\2025unreal\\2025unrealproject\\b3project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\b3project\\definitions.b3project.h",
+            "d:\\work\\unreal5e\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
